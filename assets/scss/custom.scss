@@ -1,0 +1,17 @@
+/* assets/scss/custom.scss */
+
+// 1. (Optional) Import a custom font for your logo from Google Fonts.
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
+
+// 2. Target the navbar logo and apply your custom styles.
+.navbar-brand {
+  // Use the font you imported. Add a fallback like 'sans-serif'.
+  font-family: 'Montserrat', sans-serif !important;
+
+  // Set a larger font size. 'rem' is a good unit for scalability.
+  font-size: 5rem !important;
+
+  // You can also adjust color and weight if needed.
+  font-weight: 700 !important; // 700 is bold
+  color: var(--bs-nav-link-color) !important; // This uses the theme's default link color.
+}

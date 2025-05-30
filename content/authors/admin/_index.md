@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: "Abhishek Pai"
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+# name_pronunciation: Abhishek Pai
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Abhishek 
+last_name: Pai
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: ✈️
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,133 +20,142 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Graduate Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: University of Illinois Urbana Champaign
+    url: https://aerospace.illinois.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'mailto:your-email@example.com'
-    label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  - icon: envelope
+    icon_pack: fas
+    url: 'mailto:avpai4@illinois.edu'
+    label: E-mail
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/abhipai
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/abhipaii/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://scholar.google.com/citations?user=eaOi2LYAAAAJ&hl=en
+  # - icon: academicons/orcid
+  #   url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Unmanned Systems
+  - Reinforcement Learning
+  - Computer Vision
+  - Control Theory
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
+  - area: MS Aerospace Engineering
+    institution: University of Illinois Urbana Champaign
+    date_start: 2024-08-22
     date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+    summary: |
+      GPA: 3.75/4.0
+
+      Courses undertaken:
+        - AE 504 Optimal Aerospace Systems
+        - AE 598 Formal Methods in Aerospace Robotics
+        - AE 498 Computational Systems Engineering
+        - ECE 484 Principles of Safe Autonomy
+        - AE 598 Reinforcement Learning
+    #   Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+    # button:
+    #   text: 'Read Thesis'
+    #   url: 'https://example.com'
+  - area: B.Tech. Mechanical Engineering & Computational Mathematics
+    institution: Manipal Institute of Technology
+    date_start: 2020-08-01
+    date_end: 2024-05-31
+    summary: |
+      GPA: 3.5/4.0
+    button:
+      text: 'Undergraduate Thesis'
+      url: 'https://www.cambridge.org/core/journals/aeronautical-journal/article/comparative-study-of-aerodynamic-characteristics-of-conventional-and-multilobed-airships/D9035AC5F82BE8BA0B522C9EED96E812'
+  # - area: BSc Artificial Intelligence
+  #   institution: Massachusetts Institute of Technology
+  #   date_start: 2016-01-01
+  #   date_end: 2020-12-31
+  #   summary: |
+  #     GPA: 3.4/4.0
+      
+  #     Courses included:
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+work:
+  - position: Co-founder & Design Engineer
+    company_name: Skyrobee Aerolabs
+    company_url: 'https://www.linkedin.com/company/skyrobee-aerolabs/?originalSubdomain=in'
+    company_logo: ''
+    date_start: 2023-04-01
+    date_end: 2024-06-01
+    summary: |
+      Led the design and development of multi-rotor UAVs for security applications and established the company's legal structure and sales pipeline. Secured multiple contracts for FY 2023–24.
+  - position: Research Assistant
+    company_name: MAHE Centre for Aerospace Science and Technology (CAST)
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2023-12-01
+    date_end: 2024-06-30
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Researched hybrid airship aerodynamics and shape optimization under Dr. Manikandan Murugaiah, using CFD to generate aerodynamic data and developed optimization algorithms.
+  - position: Summer Internship
+    company_name: Airbus ODC
+    company_url: ''
+    company_logo: ''
+    date_start: 2023-06-01
+    date_end: 2023-07-31
+    summary: |
+      Developed a software tool to evaluate knockdown factors for composite structures, enabling automated analysis of manufacturing defects to support engineering concessions and improved evaluation efficiency by about 70%.
+  - position: Autonomous Vehicle Design Head
+    company_name: AeroMIT, Aerial Robotics Team
+    company_url: ''
+    company_logo: ''
+    date_start: 2022-01-01
+    date_end: 2023-08-31
+    summary: |
+      Led the design and development of over 20 fixed-wing and multirotor UAVs across diverse missions. Mentored a subsystem team of 8 and contributed to award-winning international competition entries. 
+      Represented the team at expositions and innovation conclaves, showcasing experimental and competition builds to international researchers and officials.
+      
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: ''
     items:
-      - name: Python
-        description: ''
+      - name: Programming
+        description: 'Python, C/C++, MATLAB, Bash'
         percent: 80
         icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
+      # - name: Data Science
+      #   description: ''
+      #   percent: 100
+      #   icon: chart-bar
+  - name: ''
+    items:
+      - name: Libraries & Frameworks 
+        description: 'PyTorch, Scikit-learn, OpenCV, YOLO, OpenAI Gym, ROS, Gazebo'
         percent: 40
         icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+  
+  
+      
 
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
+  - name: Hindi
+    percent: 100
+  - name: Marathi
+    percent: 100
+  - name: Konkani
+    percent: 100
+  - name: Japanese
     percent: 25
 
 # Awards.
@@ -181,6 +190,6 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-## About Me
+## About Me!
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Graduate student at UIUC pursuing Aerospace Engineering exploring the world of autonomy, learning and control. Extensive experience in UAS design, development, and autonomy. Passionate about expanding expertise and driving impactful innovations.
