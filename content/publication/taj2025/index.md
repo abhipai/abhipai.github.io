@@ -28,7 +28,7 @@ tags:
 - CFD
 - Airships
 - Design Optimization
-featured: false
+featured: true
 
 # links:
 # - name: ""
