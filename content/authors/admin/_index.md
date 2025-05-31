@@ -192,4 +192,4 @@ awards:
 
 ## About Me!
 
-Graduate student at UIUC pursuing Aerospace Engineering exploring the world of autonomy, learning and control. Extensive experience in UAS design, development, and autonomy. Passionate about expanding expertise and driving impactful innovations.
+Graduate student at UIUC pursuing Aerospace Engineering with a focus on autonomy, learning and control. Extensive experience in UAS design, development, and autonomy. Passionate about expanding expertise and driving impactful innovations.
