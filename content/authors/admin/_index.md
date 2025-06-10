@@ -62,7 +62,9 @@ education:
         - AE 598 Formal Methods in Aerospace Robotics
         - AE 498 Computational Systems Engineering
         - ECE 484 Principles of Safe Autonomy
-        - AE 598 Reinforcement Learning
+        - ECE 586 MDPs & Reinforcement Learning (Ongoing)
+        - AE 598 Multi-agent Reinforcement Learning (Ongoing)
+        
     #   Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     # button:
     #   text: 'Read Thesis'
@@ -190,6 +192,6 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-## About Me!
+## About me!
 
 Graduate student at UIUC pursuing Aerospace Engineering with a focus on autonomy, learning and control. Extensive experience in UAS design, development, and autonomy. Passionate about expanding expertise and driving impactful innovations.
