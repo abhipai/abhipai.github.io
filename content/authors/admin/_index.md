@@ -62,7 +62,7 @@ education:
         - AE 598 Formal Methods in Aerospace Robotics
         - AE 498 Computational Systems Engineering
         - ECE 484 Principles of Safe Autonomy
-        - ECE 586 MDPs & Reinforcement Learning (Ongoing)
+        - AE 598 Estimation of Dynamical Systems (Ongoing)
         - AE 598 Multi-agent Reinforcement Learning (Ongoing)
         
     #   Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
