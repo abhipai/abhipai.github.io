@@ -47,7 +47,7 @@ interests:
   - Unmanned Systems
   - Reinforcement Learning
   - Computer Vision
-  - Control Theory
+  - Formal Methods
 
 education:
   - area: MS Aerospace Engineering
@@ -90,6 +90,13 @@ education:
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
+  - position: Graduate Research Assistant
+    company_name: Coordinate Science Laboratory, University of Illinois Urbana-Champaign
+    company_url: ''
+    company_logo: ''
+    date_start: 2025-08-01
+    date_end: 
+    summary: '' 
   - position: Co-founder & Design Engineer
     company_name: Skyrobee Aerolabs
     company_url: 'https://www.linkedin.com/company/skyrobee-aerolabs/?originalSubdomain=in'
