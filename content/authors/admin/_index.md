@@ -91,7 +91,7 @@ education:
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Graduate Research Assistant
-    company_name: Coordinate Science Laboratory, University of Illinois Urbana-Champaign
+    company_name: Coordinated Science Laboratory, University of Illinois Urbana-Champaign
     company_url: ''
     company_logo: ''
     date_start: 2025-08-01
