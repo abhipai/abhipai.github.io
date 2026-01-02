@@ -55,15 +55,15 @@ education:
     date_start: 2024-08-22
     date_end: ''
     summary: |
-      GPA: 3.75/4.0
+      GPA: 3.63/4.0
 
       Courses undertaken:
         - AE 504 Optimal Aerospace Systems
         - AE 598 Formal Methods in Aerospace Robotics
         - AE 498 Computational Systems Engineering
         - ECE 484 Principles of Safe Autonomy
-        - AE 598 Estimation of Dynamical Systems (Ongoing)
-        - AE 598 Multi-agent Reinforcement Learning (Ongoing)
+        - AE 598 Estimation of Dynamical Systems 
+        - AE 598 Reinforcement Learning 
         
     #   Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     # button:
@@ -90,13 +90,20 @@ education:
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
+  - position: Graduate Teaching Assistant
+    company_name: Dept. of Electrical & Computer Engineering, University of Illinois Urbana-Champaign
+    company_url: ''
+    company_logo: ''
+    date_start: 2026-01-01
+    date_end: 
+    summary: 'Contributing to the revamp of ECE 484: Principles of Safe Autonomy by integrating sota methods in state estimation and perception–control, and introducing a new quadrotor platform for experiential learning.'
   - position: Graduate Research Assistant
     company_name: Coordinated Science Laboratory, University of Illinois Urbana-Champaign
     company_url: ''
     company_logo: ''
     date_start: 2025-08-01
     date_end: 
-    summary: '' 
+    summary: 'Developing formally verifiable visual-stabilization controllers for drones that provide formal stability guarantees despite bounded visual estimation errors. Building the core autonomy stack for Illinois first high-speed autonomous drone racing platform, including vision-based state estimation and controllers for agile flight.' 
   - position: Co-founder & Design Engineer
     company_name: Skyrobee Aerolabs
     company_url: 'https://www.linkedin.com/company/skyrobee-aerolabs/?originalSubdomain=in'
