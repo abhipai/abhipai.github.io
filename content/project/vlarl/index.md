@@ -5,7 +5,7 @@ external_link: ''
 tags:
   - RL
   - VLM
-featured: false
+featured: true
 ---
 
 (Ongoing work) Investigating failure modes in VLA models fine-tuned with RL using interpretability techniques for robotic manipulation tasks.
