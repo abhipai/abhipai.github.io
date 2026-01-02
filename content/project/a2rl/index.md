@@ -1,11 +1,8 @@
 ---
-title: 'Safe RL for Autonomous Drone Racing'
+title: 'A2RL Drone Racing'
 date: 2025-12-18
 external_link: 'https://csl.illinois.edu/news-and-media/illinois-team-looks-forward-to-future-after-abu-dhabi-autonomous-drone-competition'
 tags:
-  - Formal Methods
-  - Reinforcement Learning
-  - Motion Planning
   - Unmanned Aerial Vehicles
 
 featured: true

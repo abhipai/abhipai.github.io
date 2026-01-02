@@ -1,5 +1,5 @@
 ---
-title: 'A2RL Drone Racing 2025'
+title: 'Safe RL for Autonomous Drone Racing'
 date: 2025-12-12
 external_link: 'https://github.com/abhipai/cbf-droneracer'
 tags:
